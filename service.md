@@ -29,15 +29,3 @@ The enrolment will involve the following steps:
 
 Charges are applied depending on the outcome of the socio-demographic
 assessment. Hospitalisation charges will be supported on a case by case basis.
-All the charges below are in Rupees.
-
-| Service | Category&nbsp;1 | Category&nbsp;2 | Category&nbsp;3 |
-|---------|------------|------------|------------|
-| First Assessment | Free | 100 | 400 |
-| Review | Free | 50 | 200 |
-| Review (once every 3 months) | Free | 100 | 400 |
-| Medication | Free | 40% of purchase price (not MRP) | Purchase price (not MRP) |
-| Electroconvulsive Therapy (ECT) | Free | 500 | 2000 |
-| Psychotherapy Assessment | Free | 100 | 400 |
-| Psychotherapy Session | Free | 100 | 300 |
-| Home Visit | Free | 200 | 600 |
