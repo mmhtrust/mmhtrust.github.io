@@ -3,7 +3,7 @@ layout: default
 title: MMHT
 ---
 
-<img src="public/mmht-logo.png" alt="mmht-logo" style="width: 180px; float: right; padding=0px"/>
+<img src="public/mmht-logo.png" alt="mmht-logo" style="max-width: 40%; width: 180px; float: right; padding=0px"/>
 Madras Mental Health Trust is a mental health centre based in Chennai, India
 providing psychiatric care, alcohol deaddiction and psychotherapy services. 
 
