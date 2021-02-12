@@ -36,7 +36,7 @@ of the State and the society to make such care available.
 ## Trustees
 
 * Founder and Managing Trustee -- Dr S P Sivakami
-* Dr Janani Sankar, Consultant Psychiatrist
 * [Mr Ramnath Chandrasekar](https://www.ramnathshekar.com/), Conservation Educator and Filmmaker
 * Dr T P Subhalakshmi, Consultant Psychiatrist
 * Ms Srividhya Srinivasan, Architect
+* [Dr KC Sivaramakrishnan](https://kcsrk.info), Assistant Professor, IIT Madras
