@@ -38,6 +38,12 @@ title: "CAT Level 1: Foundation Programme"
 }
 </style>
 
+<a href="https://theparc.in"><img src="public/parc-logo.png" alt="The PARC" style="width: 120px; float: right; margin-left: 1rem;"></a>
+
+A joint programme by **[The PARC](https://theparc.in)** (Psychotherapy
+Advanced Resource Centre, Bangalore) and the **Indian Association for Cognitive
+Analytic Therapy**.
+
 **Cognitive Analytic Therapy (CAT)** is an integrative psychotherapy model
 developed in the UK to meet mental health needs within time-pressured public
 systems. It has since evolved into a versatile, culturally responsive approach
