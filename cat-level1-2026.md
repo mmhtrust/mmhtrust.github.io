@@ -33,6 +33,9 @@ title: "CAT Level 1: Foundation Programme"
   color: #666;
   margin: 0;
 }
+.rupee {
+  font-family: system-ui, -apple-system, sans-serif;
+}
 </style>
 
 **Cognitive Analytic Therapy (CAT)** is an integrative psychotherapy model
@@ -61,10 +64,15 @@ procedures in the therapeutic relationship.
 
 ## Fees
 
-|  | Early bird (before 1 June) | Full fee (before 15 July) |
-|---|---|---|
-| **PhD Scholars** | &#8377;55,250 | &#8377;66,000 |
-| **Professional** | &#8377;68,300 | &#8377;77,000 |
+<table>
+<thead>
+<tr><th></th><th>Early bird (before 1 June)</th><th>Full fee (before 15 July)</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>PhD Scholars</strong></td><td><span class="rupee">₹</span>55,250</td><td><span class="rupee">₹</span>66,000</td></tr>
+<tr><td><strong>Professional</strong></td><td><span class="rupee">₹</span>68,300</td><td><span class="rupee">₹</span>77,000</td></tr>
+</tbody>
+</table>
 
 *Fees exclusive of GST*
 
