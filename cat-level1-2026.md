@@ -44,7 +44,10 @@ The **Level 1: Skills and Foundations Programme** trains participants to offer
 CAT-informed therapy and use the CAT framework to understand positions and
 procedures in the therapeutic relationship.
 
-<p><a href="public/cat-level1-2026.pdf"><strong>Download the programme flyer (PDF)</strong></a></p>
+<p>
+<a href="https://forms.gle/V2UT4Tmtonrjyidi6"><strong>Express Interest</strong></a> &nbsp;|&nbsp;
+<a href="public/cat-level1-2026.pdf">Download flyer (PDF)</a>
+</p>
 
 ---
 
